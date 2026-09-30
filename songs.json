@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "forever be mine (feat. Wizkid)",
+    "artist": "Gunna",
+    "audio": "https://edsongrove.github.io/musica-app-files/music/musica1.mp3",
+    "cover": "https://edsongrove.github.io/musica-app-files/covers/musica1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "B's On The Table (feat. 21 Savage)",
+    "artist": "Drake",
+    "audio": "https://edsongrove.github.io/musica-app-files/music/musica2.mp3",
+    "cover": "https://edsongrove.github.io/musica-app-files/covers/musica2.jpg"
+  },
+  {
+    "id": "3",
+    "title": "NOITE PERFEITA",
+    "artist": "Brandão85",
+    "audio": "https://edsongrove.github.io/musica-app-files/music/musica3.mp3",
+    "cover": "https://edsongrove.github.io/musica-app-files/covers/musica3.jpg"
+  },
+  {
+    "id": "4",
+    "title": "100% MOLHO",
+    "artist": "Brandão85",
+    "audio": "https://edsongrove.github.io/musica-app-files/music/musica4.mp3",
+    "cover": "https://edsongrove.github.io/musica-app-files/covers/musica4.jpg"
+  }
+]
